@@ -1,4 +1,4 @@
-// const = require('imgur-module');
+// const imgur = require('imgur-module');
 const imgur = require('../lib/index');
 
 // intilize client id
