@@ -8,7 +8,7 @@
     "eslint-plugin-import": "^2.9.0"
   },
   "name": "imgur-module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "It's an image upload module by imgur",
   "main": "./lib/index.js",
   "directories": {
