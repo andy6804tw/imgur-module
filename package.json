@@ -4,6 +4,33 @@
   },
   "devDependencies": {
     "eslint": "^4.18.2",
-    "eslint-config-airbnb-base": "^12.1.0"
-  }
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0"
+  },
+  "name": "imgur-module",
+  "version": "1.0.0",
+  "description": "It's an image upload module by imgur",
+  "main": "./lib/index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andy6804tw/imgur-module.git"
+  },
+  "keywords": [
+    "imgur",
+    "upload",
+    "image"
+  ],
+  "author": "Tsai,Yi-Lin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andy6804tw/imgur-module/issues"
+  },
+  "homepage": "https://github.com/andy6804tw/imgur-module#readme"
 }
