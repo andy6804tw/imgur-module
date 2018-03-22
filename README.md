@@ -41,7 +41,7 @@ imgur.uploadImgur('Your Image URL').then((result) => {
 #### MIT
 
 
-[npm-image]: https://img.shields.io/badge/npm-v1.0.2-blue.svg
+[npm-image]: https://img.shields.io/badge/npm-v1.1.0-blue.svg
 [npm-url]: https://www.npmjs.com/package/imgur-module
 [travis-image]: https://travis-ci.org/andy6804tw/imgur-module.svg?branch=master
 [travis-url]: https://travis-ci.org/andy6804tw/imgur-module
